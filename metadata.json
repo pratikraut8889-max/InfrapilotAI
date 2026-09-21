@@ -1,0 +1,8 @@
+{
+  "name": "InfraPilot AI",
+  "description": "AI-powered developer assistant for building, debugging, and deploying intelligent infrastructure and models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
